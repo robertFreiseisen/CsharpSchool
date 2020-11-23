@@ -1,0 +1,13 @@
+C:\Users\Robert Freiseisen\HTBLA Leonding\4BHIF\PROO\DemoLINQ\DemoLINQ\bin\Debug\netcoreapp3.1\DemoLINQ.exe
+C:\Users\Robert Freiseisen\HTBLA Leonding\4BHIF\PROO\DemoLINQ\DemoLINQ\bin\Debug\netcoreapp3.1\DemoLINQ.deps.json
+C:\Users\Robert Freiseisen\HTBLA Leonding\4BHIF\PROO\DemoLINQ\DemoLINQ\bin\Debug\netcoreapp3.1\DemoLINQ.runtimeconfig.json
+C:\Users\Robert Freiseisen\HTBLA Leonding\4BHIF\PROO\DemoLINQ\DemoLINQ\bin\Debug\netcoreapp3.1\DemoLINQ.runtimeconfig.dev.json
+C:\Users\Robert Freiseisen\HTBLA Leonding\4BHIF\PROO\DemoLINQ\DemoLINQ\bin\Debug\netcoreapp3.1\DemoLINQ.dll
+C:\Users\Robert Freiseisen\HTBLA Leonding\4BHIF\PROO\DemoLINQ\DemoLINQ\bin\Debug\netcoreapp3.1\DemoLINQ.pdb
+C:\Users\Robert Freiseisen\HTBLA Leonding\4BHIF\PROO\DemoLINQ\DemoLINQ\obj\Debug\netcoreapp3.1\DemoLINQ.csproj.CoreCompileInputs.cache
+C:\Users\Robert Freiseisen\HTBLA Leonding\4BHIF\PROO\DemoLINQ\DemoLINQ\obj\Debug\netcoreapp3.1\DemoLINQ.AssemblyInfoInputs.cache
+C:\Users\Robert Freiseisen\HTBLA Leonding\4BHIF\PROO\DemoLINQ\DemoLINQ\obj\Debug\netcoreapp3.1\DemoLINQ.AssemblyInfo.cs
+C:\Users\Robert Freiseisen\HTBLA Leonding\4BHIF\PROO\DemoLINQ\DemoLINQ\obj\Debug\netcoreapp3.1\DemoLINQ.dll
+C:\Users\Robert Freiseisen\HTBLA Leonding\4BHIF\PROO\DemoLINQ\DemoLINQ\obj\Debug\netcoreapp3.1\DemoLINQ.pdb
+C:\Users\Robert Freiseisen\HTBLA Leonding\4BHIF\PROO\DemoLINQ\DemoLINQ\obj\Debug\netcoreapp3.1\DemoLINQ.genruntimeconfig.cache
+C:\Users\Robert Freiseisen\HTBLA Leonding\4BHIF\PROO\DemoLINQ\DemoLINQ\obj\Debug\netcoreapp3.1\DemoLINQ.csprojAssemblyReference.cache

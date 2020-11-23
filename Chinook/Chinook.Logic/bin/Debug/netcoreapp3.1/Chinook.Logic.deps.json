@@ -1,0 +1,47 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Chinook.Logic/1.0.0": {
+        "dependencies": {
+          "Chinook.Contracts": "1.0.0",
+          "CsvMapper": "1.0.0"
+        },
+        "runtime": {
+          "Chinook.Logic.dll": {}
+        }
+      },
+      "Chinook.Contracts/1.0.0": {
+        "runtime": {
+          "Chinook.Contracts.dll": {}
+        }
+      },
+      "CsvMapper/1.0.0": {
+        "runtime": {
+          "CsvMapper.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Chinook.Logic/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Chinook.Contracts/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CsvMapper/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

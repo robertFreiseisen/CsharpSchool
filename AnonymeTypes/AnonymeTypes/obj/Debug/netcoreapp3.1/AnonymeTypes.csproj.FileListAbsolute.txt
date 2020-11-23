@@ -1,0 +1,13 @@
+C:\Users\Robert Freiseisen\HTBLA Leonding\4BHIF\PROO\AnonymeTypes\AnonymeTypes\bin\Debug\netcoreapp3.1\AnonymeTypes.exe
+C:\Users\Robert Freiseisen\HTBLA Leonding\4BHIF\PROO\AnonymeTypes\AnonymeTypes\bin\Debug\netcoreapp3.1\AnonymeTypes.deps.json
+C:\Users\Robert Freiseisen\HTBLA Leonding\4BHIF\PROO\AnonymeTypes\AnonymeTypes\bin\Debug\netcoreapp3.1\AnonymeTypes.runtimeconfig.json
+C:\Users\Robert Freiseisen\HTBLA Leonding\4BHIF\PROO\AnonymeTypes\AnonymeTypes\bin\Debug\netcoreapp3.1\AnonymeTypes.runtimeconfig.dev.json
+C:\Users\Robert Freiseisen\HTBLA Leonding\4BHIF\PROO\AnonymeTypes\AnonymeTypes\bin\Debug\netcoreapp3.1\AnonymeTypes.dll
+C:\Users\Robert Freiseisen\HTBLA Leonding\4BHIF\PROO\AnonymeTypes\AnonymeTypes\bin\Debug\netcoreapp3.1\AnonymeTypes.pdb
+C:\Users\Robert Freiseisen\HTBLA Leonding\4BHIF\PROO\AnonymeTypes\AnonymeTypes\obj\Debug\netcoreapp3.1\AnonymeTypes.csprojAssemblyReference.cache
+C:\Users\Robert Freiseisen\HTBLA Leonding\4BHIF\PROO\AnonymeTypes\AnonymeTypes\obj\Debug\netcoreapp3.1\AnonymeTypes.csproj.CoreCompileInputs.cache
+C:\Users\Robert Freiseisen\HTBLA Leonding\4BHIF\PROO\AnonymeTypes\AnonymeTypes\obj\Debug\netcoreapp3.1\AnonymeTypes.AssemblyInfoInputs.cache
+C:\Users\Robert Freiseisen\HTBLA Leonding\4BHIF\PROO\AnonymeTypes\AnonymeTypes\obj\Debug\netcoreapp3.1\AnonymeTypes.AssemblyInfo.cs
+C:\Users\Robert Freiseisen\HTBLA Leonding\4BHIF\PROO\AnonymeTypes\AnonymeTypes\obj\Debug\netcoreapp3.1\AnonymeTypes.dll
+C:\Users\Robert Freiseisen\HTBLA Leonding\4BHIF\PROO\AnonymeTypes\AnonymeTypes\obj\Debug\netcoreapp3.1\AnonymeTypes.pdb
+C:\Users\Robert Freiseisen\HTBLA Leonding\4BHIF\PROO\AnonymeTypes\AnonymeTypes\obj\Debug\netcoreapp3.1\AnonymeTypes.genruntimeconfig.cache

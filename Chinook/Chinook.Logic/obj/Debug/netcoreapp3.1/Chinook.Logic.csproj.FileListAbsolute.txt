@@ -1,0 +1,14 @@
+C:\Users\Robert Freiseisen\HTBLA Leonding\4BHIF\PROO\Chinook\Chinook.Logic\obj\Debug\netcoreapp3.1\Chinook.Logic.csprojAssemblyReference.cache
+C:\Users\Robert Freiseisen\HTBLA Leonding\4BHIF\PROO\Chinook\Chinook.Logic\obj\Debug\netcoreapp3.1\Chinook.Logic.csproj.CoreCompileInputs.cache
+C:\Users\Robert Freiseisen\HTBLA Leonding\4BHIF\PROO\Chinook\Chinook.Logic\obj\Debug\netcoreapp3.1\Chinook.Logic.AssemblyInfoInputs.cache
+C:\Users\Robert Freiseisen\HTBLA Leonding\4BHIF\PROO\Chinook\Chinook.Logic\obj\Debug\netcoreapp3.1\Chinook.Logic.AssemblyInfo.cs
+C:\Users\Robert Freiseisen\HTBLA Leonding\4BHIF\PROO\Chinook\Chinook.Logic\bin\Debug\netcoreapp3.1\Chinook.Logic.deps.json
+C:\Users\Robert Freiseisen\HTBLA Leonding\4BHIF\PROO\Chinook\Chinook.Logic\bin\Debug\netcoreapp3.1\Chinook.Logic.dll
+C:\Users\Robert Freiseisen\HTBLA Leonding\4BHIF\PROO\Chinook\Chinook.Logic\bin\Debug\netcoreapp3.1\Chinook.Logic.pdb
+C:\Users\Robert Freiseisen\HTBLA Leonding\4BHIF\PROO\Chinook\Chinook.Logic\bin\Debug\netcoreapp3.1\Chinook.Contracts.dll
+C:\Users\Robert Freiseisen\HTBLA Leonding\4BHIF\PROO\Chinook\Chinook.Logic\bin\Debug\netcoreapp3.1\CsvMapper.dll
+C:\Users\Robert Freiseisen\HTBLA Leonding\4BHIF\PROO\Chinook\Chinook.Logic\bin\Debug\netcoreapp3.1\CsvMapper.pdb
+C:\Users\Robert Freiseisen\HTBLA Leonding\4BHIF\PROO\Chinook\Chinook.Logic\bin\Debug\netcoreapp3.1\Chinook.Contracts.pdb
+C:\Users\Robert Freiseisen\HTBLA Leonding\4BHIF\PROO\Chinook\Chinook.Logic\obj\Debug\netcoreapp3.1\Chinook.Logic.csproj.CopyComplete
+C:\Users\Robert Freiseisen\HTBLA Leonding\4BHIF\PROO\Chinook\Chinook.Logic\obj\Debug\netcoreapp3.1\Chinook.Logic.dll
+C:\Users\Robert Freiseisen\HTBLA Leonding\4BHIF\PROO\Chinook\Chinook.Logic\obj\Debug\netcoreapp3.1\Chinook.Logic.pdb

@@ -1,0 +1,13 @@
+C:\Users\Robert Freiseisen\HTBLA Leonding\4BHIF\PROO\StringExtensions\StringExtensions\bin\Debug\netcoreapp3.1\StringExtensions.exe
+C:\Users\Robert Freiseisen\HTBLA Leonding\4BHIF\PROO\StringExtensions\StringExtensions\bin\Debug\netcoreapp3.1\StringExtensions.deps.json
+C:\Users\Robert Freiseisen\HTBLA Leonding\4BHIF\PROO\StringExtensions\StringExtensions\bin\Debug\netcoreapp3.1\StringExtensions.runtimeconfig.json
+C:\Users\Robert Freiseisen\HTBLA Leonding\4BHIF\PROO\StringExtensions\StringExtensions\bin\Debug\netcoreapp3.1\StringExtensions.runtimeconfig.dev.json
+C:\Users\Robert Freiseisen\HTBLA Leonding\4BHIF\PROO\StringExtensions\StringExtensions\bin\Debug\netcoreapp3.1\StringExtensions.dll
+C:\Users\Robert Freiseisen\HTBLA Leonding\4BHIF\PROO\StringExtensions\StringExtensions\bin\Debug\netcoreapp3.1\StringExtensions.pdb
+C:\Users\Robert Freiseisen\HTBLA Leonding\4BHIF\PROO\StringExtensions\StringExtensions\obj\Debug\netcoreapp3.1\StringExtensions.csprojAssemblyReference.cache
+C:\Users\Robert Freiseisen\HTBLA Leonding\4BHIF\PROO\StringExtensions\StringExtensions\obj\Debug\netcoreapp3.1\StringExtensions.csproj.CoreCompileInputs.cache
+C:\Users\Robert Freiseisen\HTBLA Leonding\4BHIF\PROO\StringExtensions\StringExtensions\obj\Debug\netcoreapp3.1\StringExtensions.AssemblyInfoInputs.cache
+C:\Users\Robert Freiseisen\HTBLA Leonding\4BHIF\PROO\StringExtensions\StringExtensions\obj\Debug\netcoreapp3.1\StringExtensions.AssemblyInfo.cs
+C:\Users\Robert Freiseisen\HTBLA Leonding\4BHIF\PROO\StringExtensions\StringExtensions\obj\Debug\netcoreapp3.1\StringExtensions.dll
+C:\Users\Robert Freiseisen\HTBLA Leonding\4BHIF\PROO\StringExtensions\StringExtensions\obj\Debug\netcoreapp3.1\StringExtensions.pdb
+C:\Users\Robert Freiseisen\HTBLA Leonding\4BHIF\PROO\StringExtensions\StringExtensions\obj\Debug\netcoreapp3.1\StringExtensions.genruntimeconfig.cache

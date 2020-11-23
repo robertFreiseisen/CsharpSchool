@@ -1,0 +1,107 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Chinook.Contracts/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/Chinook.Contracts.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Chinook.Contracts.dll": {}
+        }
+      },
+      "CsvMapper/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "compile": {
+          "bin/placeholder/CsvMapper.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CsvMapper.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Chinook.Contracts/1.0.0": {
+      "type": "project",
+      "path": "../Chinook.Contracts/Chinook.Contracts.csproj",
+      "msbuildProject": "../Chinook.Contracts/Chinook.Contracts.csproj"
+    },
+    "CsvMapper/1.0.0": {
+      "type": "project",
+      "path": "../../CsvMapper/CsvMapper.Logic/CsvMapper.csproj",
+      "msbuildProject": "../../CsvMapper/CsvMapper.Logic/CsvMapper.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "Chinook.Contracts >= 1.0.0",
+      "CsvMapper >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Robert Freiseisen\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Robert Freiseisen\\HTBLA Leonding\\4BHIF\\PROO\\Chinook\\Chinook.Logic\\Chinook.Logic.csproj",
+      "projectName": "Chinook.Logic",
+      "projectPath": "C:\\Users\\Robert Freiseisen\\HTBLA Leonding\\4BHIF\\PROO\\Chinook\\Chinook.Logic\\Chinook.Logic.csproj",
+      "packagesPath": "C:\\Users\\Robert Freiseisen\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Robert Freiseisen\\HTBLA Leonding\\4BHIF\\PROO\\Chinook\\Chinook.Logic\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Robert Freiseisen\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "projectReferences": {
+            "C:\\Users\\Robert Freiseisen\\HTBLA Leonding\\4BHIF\\PROO\\Chinook\\Chinook.Contracts\\Chinook.Contracts.csproj": {
+              "projectPath": "C:\\Users\\Robert Freiseisen\\HTBLA Leonding\\4BHIF\\PROO\\Chinook\\Chinook.Contracts\\Chinook.Contracts.csproj"
+            },
+            "C:\\Users\\Robert Freiseisen\\HTBLA Leonding\\4BHIF\\PROO\\CsvMapper\\CsvMapper.Logic\\CsvMapper.csproj": {
+              "projectPath": "C:\\Users\\Robert Freiseisen\\HTBLA Leonding\\4BHIF\\PROO\\CsvMapper\\CsvMapper.Logic\\CsvMapper.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
